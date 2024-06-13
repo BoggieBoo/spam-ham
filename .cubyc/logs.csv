@@ -1,4 +1,4 @@
 timestamp,name,value
-2024-06-13 08:52:31.533089,training accuracy,0.7982164248635698
-2024-06-13 08:52:31.533089,validation accuracy,0.8395209580838323
-2024-06-13 08:52:31.533089,words,"['<html>', '</html>', '<head>', '</head>', '<body>', '</body>', '<br>', '<b>', '<font', '<a', '</a>']"
+2024-06-13 12:15:40.247284,training accuracy,0.7982164248635698
+2024-06-13 12:15:40.247284,validation accuracy,0.8395209580838323
+2024-06-13 12:15:40.247284,words,"['<html>', '</html>', '<head>', '</head>', '<body>', '</body>', '<br>', '<b>', '<font', '<a', '</a>']"
